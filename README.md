@@ -5,4 +5,4 @@ A small demo that sets up the esp32 in station mode and hosts a server on local 
 ![ESP32 RGB Controller webpage](./demo_img1.png)
 
 ## An image of the esp32 s3's neopixel displaying the selected colour
-![image of the esp32 s3's neopixel glowing purple](./demo_img2.jpg "how it looks")
+![image of the esp32 s3's neopixel glowing purple](./demo_img2.jpg)
